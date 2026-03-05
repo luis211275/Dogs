@@ -101,27 +101,11 @@ public class DogService {
 
 
     public static String Imagen2Razas(String raza1, String raza2) throws Exception {
-
+        // 1. Realizamos las llamadas a la API para cada raza
         String foto1 = llamada("https://dog.ceo/api/breed/" + raza1 + "/images/random/1");
         String foto2 = llamada("https://dog.ceo/api/breed/" + raza2 + "/images/random/1");
 
-
-        String url1 = foto1.split("\"")[3];
-        String url2 = foto2.split("\"")[3];
-
-
-        return "data{\n" +
-                "[\n" +
-                "{\n" +
-                "nombre: " + raza1 +
-                "\nimagen: " + url1 +
-                "\n}," +
-                "\n{" +
-                "\nnombre: " + raza2 +
-                "\nimagen: " + url2 +
-                "\n}," +
-                "\n]" +
-                "\n}";
+        return llamada(foto1 + foto2);
     }
 
 

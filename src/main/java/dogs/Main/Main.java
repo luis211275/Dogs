@@ -31,7 +31,7 @@ public class Main {
         String url = sc.nextLine();
         switch (url) {
             case "1":
-                System.out.println("Servidor iniciado en http://localhost:8080/dogs/list");
+                System.out.println("Servidor iniciado en http://localhost:8080");
                 break;
             case "2":
                 System.out.println("Servidor iniciado en http://localhost:8080/dogs/noBreeds");
