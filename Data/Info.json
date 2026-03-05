@@ -1,0 +1,1004 @@
+{
+  "clientes": [
+    {
+      "id_cliente": 1,
+      "dni": "459799525-0",
+      "nombre_apellidos": "Millicent Dilworth",
+      "telefono": "674 628 9417",
+      "email": "mdilworth0@pagesperso-orange.fr",
+      "fecha_alta": "2025-04-17 09:05:01",
+      "fecha_baja": "2025-09-01 09:35:32",
+      "estado": false
+    },
+    {
+      "id_cliente": 2,
+      "dni": "034772514-7",
+      "nombre_apellidos": "Douglass Lammie",
+      "telefono": "635 464 5247",
+      "email": "dlammie1@google.ca",
+      "fecha_alta": "2025-11-16 09:42:46",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 3,
+      "dni": "721020196-3",
+      "nombre_apellidos": "Evanne Behnecke",
+      "telefono": "460 890 3854",
+      "email": "ebehnecke2@ustream.tv",
+      "fecha_alta": "2025-02-19 19:02:22",
+      "fecha_baja": "2025-07-21 04:35:24",
+      "estado": true
+    },
+    {
+      "id_cliente": 4,
+      "dni": "587506357-2",
+      "nombre_apellidos": "Gilly Frossell",
+      "telefono": "108 632 3025",
+      "email": "gfrossell3@java.com",
+      "fecha_alta": "2025-09-16 00:56:44",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 5,
+      "dni": "824694152-6",
+      "nombre_apellidos": "Maggy Krysztofowicz",
+      "telefono": "113 806 8163",
+      "email": "mkrysztofowicz4@skyrock.com",
+      "fecha_alta": "2025-08-02 21:01:59",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 6,
+      "dni": "246430845-5",
+      "nombre_apellidos": "Mersey Selbie",
+      "telefono": "688 265 3225",
+      "email": "mselbie5@europa.eu",
+      "fecha_alta": "2025-10-21 16:49:52",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 7,
+      "dni": "941212966-1",
+      "nombre_apellidos": "Ripley Kitman",
+      "telefono": "199 320 0442",
+      "email": "rkitman6@gmpg.org",
+      "fecha_alta": "2025-06-16 15:46:00",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 8,
+      "dni": "565160371-9",
+      "nombre_apellidos": "Barnabe Mouat",
+      "telefono": "433 609 1555",
+      "email": "bmouat7@princeton.edu",
+      "fecha_alta": "2025-06-06 11:11:08",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 9,
+      "dni": "937057177-9",
+      "nombre_apellidos": "Dukey Lampens",
+      "telefono": "425 107 3693",
+      "email": "dlampens8@cyberchimps.com",
+      "fecha_alta": "2025-02-02 23:36:03",
+      "fecha_baja": "2025-05-25 07:10:06",
+      "estado": true
+    },
+    {
+      "id_cliente": 10,
+      "dni": "699949711-7",
+      "nombre_apellidos": "Dasya Nerney",
+      "telefono": "173 232 6924",
+      "email": "dnerney9@accuweather.com",
+      "fecha_alta": "2025-07-04 05:30:09",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 11,
+      "dni": "252403419-4",
+      "nombre_apellidos": "Sebastiano Downe",
+      "telefono": "241 492 3197",
+      "email": "sdownea@1688.com",
+      "fecha_alta": "2025-08-14 11:52:56",
+      "fecha_baja": "2025-05-26 19:56:16",
+      "estado": false
+    },
+    {
+      "id_cliente": 12,
+      "dni": "083235802-9",
+      "nombre_apellidos": "Alla Yukhtin",
+      "telefono": "510 611 4654",
+      "email": "ayukhtinb@upenn.edu",
+      "fecha_alta": "2025-08-07 09:31:31",
+      "fecha_baja": "2025-06-19 05:26:15",
+      "estado": false
+    },
+    {
+      "id_cliente": 13,
+      "dni": "657473909-8",
+      "nombre_apellidos": "Ambur Snalom",
+      "telefono": "765 696 5860",
+      "email": "asnalomc@bbc.co.uk",
+      "fecha_alta": "2025-09-18 18:14:59",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 14,
+      "dni": "858734051-4",
+      "nombre_apellidos": "Lynnett Aubray",
+      "telefono": "477 153 9811",
+      "email": "laubrayd@examiner.com",
+      "fecha_alta": "2025-05-25 03:08:55",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 15,
+      "dni": "729047998-X",
+      "nombre_apellidos": "Uta Seager",
+      "telefono": "543 510 3021",
+      "email": "useagere@soundcloud.com",
+      "fecha_alta": "2025-08-25 14:34:51",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 16,
+      "dni": "181462482-1",
+      "nombre_apellidos": "Jaymee Pougher",
+      "telefono": "991 943 5186",
+      "email": "jpougherf@seesaa.net",
+      "fecha_alta": "2025-09-14 23:31:30",
+      "fecha_baja": "2025-10-29 02:10:33",
+      "estado": false
+    },
+    {
+      "id_cliente": 17,
+      "dni": "745719913-6",
+      "nombre_apellidos": "Laverne Rickardsson",
+      "telefono": "988 412 9186",
+      "email": "lrickardssong@qq.com",
+      "fecha_alta": "2025-01-25 13:57:06",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 18,
+      "dni": "927893308-2",
+      "nombre_apellidos": "Alic Ballintyne",
+      "telefono": "223 562 8852",
+      "email": "aballintyneh@sina.com.cn",
+      "fecha_alta": "2025-01-26 13:41:17",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 19,
+      "dni": "901704379-2",
+      "nombre_apellidos": "Tiffie Kettlewell",
+      "telefono": "588 119 5614",
+      "email": "tkettlewelli@state.gov",
+      "fecha_alta": "2025-07-24 08:41:32",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 20,
+      "dni": "713853631-3",
+      "nombre_apellidos": "Mab Rigglesford",
+      "telefono": "324 632 2619",
+      "email": "mrigglesfordj@pcworld.com",
+      "fecha_alta": "2025-09-21 23:46:44",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 21,
+      "dni": "953375958-5",
+      "nombre_apellidos": "Gradeigh Spinas",
+      "telefono": "693 224 2299",
+      "email": "gspinask@noaa.gov",
+      "fecha_alta": "2025-04-28 13:46:49",
+      "fecha_baja": "2025-05-16 01:05:26",
+      "estado": false
+    },
+    {
+      "id_cliente": 22,
+      "dni": "321924473-4",
+      "nombre_apellidos": "Mycah Spracklin",
+      "telefono": "179 656 9443",
+      "email": "mspracklinl@google.nl",
+      "fecha_alta": "2025-01-26 03:53:36",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 23,
+      "dni": "666299477-4",
+      "nombre_apellidos": "Daffy Timbs",
+      "telefono": "587 424 5376",
+      "email": "dtimbsm@dailymotion.com",
+      "fecha_alta": "2025-10-25 21:26:07",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 24,
+      "dni": "769164519-8",
+      "nombre_apellidos": "Stella MacPherson",
+      "telefono": "591 170 9822",
+      "email": "smacphersonn@1688.com",
+      "fecha_alta": "2025-05-24 09:29:26",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 25,
+      "dni": "486649891-9",
+      "nombre_apellidos": "Durante Menendez",
+      "telefono": "408 464 7066",
+      "email": "dmenendezo@so-net.ne.jp",
+      "fecha_alta": "2025-06-25 16:21:15",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 26,
+      "dni": "689091716-2",
+      "nombre_apellidos": "Myron Mosdill",
+      "telefono": "829 588 0691",
+      "email": "mmosdillp@woothemes.com",
+      "fecha_alta": "2025-11-17 17:21:32",
+      "fecha_baja": "2025-06-23 13:59:15",
+      "estado": true
+    },
+    {
+      "id_cliente": 27,
+      "dni": "460251182-1",
+      "nombre_apellidos": "Catharina Tuting",
+      "telefono": "401 991 0693",
+      "email": "ctutingq@stumbleupon.com",
+      "fecha_alta": "2025-09-10 02:55:31",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 28,
+      "dni": "928546407-6",
+      "nombre_apellidos": "Lindy Lightollers",
+      "telefono": "364 925 8321",
+      "email": "llightollersr@fastcompany.com",
+      "fecha_alta": "2025-02-12 15:09:50",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 29,
+      "dni": "890784710-X",
+      "nombre_apellidos": "Latashia Dumberrill",
+      "telefono": "160 667 4925",
+      "email": "ldumberrills@tiny.cc",
+      "fecha_alta": "2025-08-03 14:45:38",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 30,
+      "dni": "603406218-7",
+      "nombre_apellidos": "Annissa Gownge",
+      "telefono": "886 985 7976",
+      "email": "agownget@netlog.com",
+      "fecha_alta": "2025-11-11 03:19:35",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 31,
+      "dni": "568423971-4",
+      "nombre_apellidos": "Sybil Greveson",
+      "telefono": "295 352 9609",
+      "email": "sgrevesonu@nationalgeographic.com",
+      "fecha_alta": "2025-02-19 22:34:20",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 32,
+      "dni": "568027135-4",
+      "nombre_apellidos": "Kylie Braikenridge",
+      "telefono": "882 155 6823",
+      "email": "kbraikenridgev@unc.edu",
+      "fecha_alta": "2025-11-12 23:53:38",
+      "fecha_baja": "2025-05-13 12:36:01",
+      "estado": false
+    },
+    {
+      "id_cliente": 33,
+      "dni": "810126397-7",
+      "nombre_apellidos": "Julianne Titterell",
+      "telefono": "716 654 1120",
+      "email": "jtitterellw@studiopress.com",
+      "fecha_alta": "2025-11-11 03:34:38",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 34,
+      "dni": "568663178-6",
+      "nombre_apellidos": "Doll Pavett",
+      "telefono": "996 676 3006",
+      "email": "dpavettx@bravesites.com",
+      "fecha_alta": "2025-10-29 11:00:29",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 35,
+      "dni": "599844866-9",
+      "nombre_apellidos": "Tanitansy McGloughlin",
+      "telefono": "286 958 7940",
+      "email": "tmcgloughliny@nasa.gov",
+      "fecha_alta": "2025-10-27 18:05:15",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 36,
+      "dni": "887119586-8",
+      "nombre_apellidos": "Valeda Iacovucci",
+      "telefono": "724 648 7704",
+      "email": "viacovucciz@webs.com",
+      "fecha_alta": "2025-02-26 00:52:59",
+      "fecha_baja": "2025-08-31 11:09:38",
+      "estado": true
+    },
+    {
+      "id_cliente": 37,
+      "dni": "676552735-4",
+      "nombre_apellidos": "Katie Cramer",
+      "telefono": "755 612 8537",
+      "email": "kcramer10@intel.com",
+      "fecha_alta": "2025-06-09 22:28:34",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 38,
+      "dni": "711770209-5",
+      "nombre_apellidos": "Rafaela Camplin",
+      "telefono": "637 886 6545",
+      "email": "rcamplin11@macromedia.com",
+      "fecha_alta": "2025-07-04 18:52:00",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 39,
+      "dni": "165222064-X",
+      "nombre_apellidos": "Patsy Tretter",
+      "telefono": "348 854 3195",
+      "email": "ptretter12@cdbaby.com",
+      "fecha_alta": "2025-03-17 16:06:30",
+      "fecha_baja": "2025-06-17 22:41:38",
+      "estado": true
+    },
+    {
+      "id_cliente": 40,
+      "dni": "456924145-X",
+      "nombre_apellidos": "Raul Merkle",
+      "telefono": "552 147 3206",
+      "email": "rmerkle13@liveinternet.ru",
+      "fecha_alta": "2025-11-15 11:02:49",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 41,
+      "dni": "459346197-9",
+      "nombre_apellidos": "Moreen Fawltey",
+      "telefono": "751 696 0792",
+      "email": "mfawltey14@cisco.com",
+      "fecha_alta": "2025-03-05 23:38:48",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 42,
+      "dni": "866635504-2",
+      "nombre_apellidos": "Miguela Enevoldsen",
+      "telefono": "143 604 3982",
+      "email": "menevoldsen15@tinyurl.com",
+      "fecha_alta": "2025-01-19 04:48:51",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 43,
+      "dni": "084672421-9",
+      "nombre_apellidos": "Sebastian Lammerding",
+      "telefono": "482 329 6908",
+      "email": "slammerding16@xrea.com",
+      "fecha_alta": "2025-07-04 13:42:49",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 44,
+      "dni": "468099883-0",
+      "nombre_apellidos": "Ricca De Bernardis",
+      "telefono": "672 332 7976",
+      "email": "rde17@abc.net.au",
+      "fecha_alta": "2025-03-19 16:23:48",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 45,
+      "dni": "970980905-9",
+      "nombre_apellidos": "Nikos Cartwight",
+      "telefono": "728 820 4965",
+      "email": "ncartwight18@tinypic.com",
+      "fecha_alta": "2025-06-23 05:49:27",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 46,
+      "dni": "671366650-7",
+      "nombre_apellidos": "Gannie Wellard",
+      "telefono": "513 674 3333",
+      "email": "gwellard19@ifeng.com",
+      "fecha_alta": "2025-08-04 07:06:07",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 47,
+      "dni": "433721992-7",
+      "nombre_apellidos": "Warde Wooller",
+      "telefono": "855 576 0806",
+      "email": "wwooller1a@phpbb.com",
+      "fecha_alta": "2025-07-29 02:31:32",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 48,
+      "dni": "263304837-4",
+      "nombre_apellidos": "Althea Dyas",
+      "telefono": "905 446 4905",
+      "email": "adyas1b@people.com.cn",
+      "fecha_alta": "2025-06-04 05:58:04",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 49,
+      "dni": "528865172-8",
+      "nombre_apellidos": "Cherye Linger",
+      "telefono": "818 983 6812",
+      "email": "clinger1c@jugem.jp",
+      "fecha_alta": "2025-06-20 18:42:10",
+      "fecha_baja": "2025-07-11 22:24:33",
+      "estado": true
+    },
+    {
+      "id_cliente": 50,
+      "dni": "043753389-1",
+      "nombre_apellidos": "Burton Weighell",
+      "telefono": "613 610 3860",
+      "email": "bweighell1d@weather.com",
+      "fecha_alta": "2025-04-01 11:12:46",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 51,
+      "dni": "275857555-8",
+      "nombre_apellidos": "Agustin Pedel",
+      "telefono": "561 794 9767",
+      "email": "apedel1e@nih.gov",
+      "fecha_alta": "2025-04-07 05:45:42",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 52,
+      "dni": "505746825-1",
+      "nombre_apellidos": "Lacee Rickett",
+      "telefono": "648 423 5250",
+      "email": "lrickett1f@delicious.com",
+      "fecha_alta": "2025-01-31 02:58:24",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 53,
+      "dni": "314327579-0",
+      "nombre_apellidos": "Gayla Solway",
+      "telefono": "846 546 6046",
+      "email": "gsolway1g@storify.com",
+      "fecha_alta": "2025-02-26 17:40:17",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 54,
+      "dni": "500052436-5",
+      "nombre_apellidos": "Axel Peakman",
+      "telefono": "442 282 6668",
+      "email": "apeakman1h@wiley.com",
+      "fecha_alta": "2025-06-02 23:27:59",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 55,
+      "dni": "644742679-1",
+      "nombre_apellidos": "Patricia Anthoin",
+      "telefono": "658 971 1493",
+      "email": "panthoin1i@illinois.edu",
+      "fecha_alta": "2025-05-09 16:37:20",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 56,
+      "dni": "793419346-7",
+      "nombre_apellidos": "Alica Schwerin",
+      "telefono": "210 964 9515",
+      "email": "aschwerin1j@utexas.edu",
+      "fecha_alta": "2025-08-24 05:50:44",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 57,
+      "dni": "410297362-1",
+      "nombre_apellidos": "Sybila Glazebrook",
+      "telefono": "468 945 7249",
+      "email": "sglazebrook1k@t.co",
+      "fecha_alta": "2025-06-20 01:40:57",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 58,
+      "dni": "019766022-3",
+      "nombre_apellidos": "Alicia Cairns",
+      "telefono": "930 436 9904",
+      "email": "acairns1l@hostgator.com",
+      "fecha_alta": "2025-11-26 11:57:56",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 59,
+      "dni": "628448036-9",
+      "nombre_apellidos": "Kendell Dunn",
+      "telefono": "733 682 3771",
+      "email": "kdunn1m@wiley.com",
+      "fecha_alta": "2025-04-08 04:57:41",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 60,
+      "dni": "844903341-1",
+      "nombre_apellidos": "Christabella McMains",
+      "telefono": "352 260 0988",
+      "email": "cmcmains1n@cargocollective.com",
+      "fecha_alta": "2025-09-17 05:26:04",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 61,
+      "dni": "497612515-7",
+      "nombre_apellidos": "Martguerita Palleske",
+      "telefono": "396 647 0821",
+      "email": "mpalleske1o@sun.com",
+      "fecha_alta": "2025-11-05 01:04:17",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 62,
+      "dni": "999416985-8",
+      "nombre_apellidos": "Fletch Mccaull",
+      "telefono": "623 847 9360",
+      "email": "fmccaull1p@si.edu",
+      "fecha_alta": "2025-04-29 22:31:55",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 63,
+      "dni": "443571778-6",
+      "nombre_apellidos": "Catarina Pagan",
+      "telefono": "332 625 9171",
+      "email": "cpagan1q@dmoz.org",
+      "fecha_alta": "2025-04-21 22:22:57",
+      "fecha_baja": "2025-05-23 14:53:12",
+      "estado": true
+    },
+    {
+      "id_cliente": 64,
+      "dni": "334504514-1",
+      "nombre_apellidos": "Tiff Cutten",
+      "telefono": "632 417 7937",
+      "email": "tcutten1r@google.co.uk",
+      "fecha_alta": "2025-09-10 16:36:00",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 65,
+      "dni": "292881397-7",
+      "nombre_apellidos": "Shayne Carus",
+      "telefono": "462 394 5790",
+      "email": "scarus1s@creativecommons.org",
+      "fecha_alta": "2025-09-01 07:05:25",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 66,
+      "dni": "436809578-2",
+      "nombre_apellidos": "Christi Webster",
+      "telefono": "102 565 0170",
+      "email": "cwebster1t@biglobe.ne.jp",
+      "fecha_alta": "2025-11-15 00:02:30",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 67,
+      "dni": "615757855-6",
+      "nombre_apellidos": "Avery Errichelli",
+      "telefono": "899 610 3245",
+      "email": "aerrichelli1u@gmpg.org",
+      "fecha_alta": "2025-03-31 11:01:31",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 68,
+      "dni": "035090015-9",
+      "nombre_apellidos": "Stanwood Chavey",
+      "telefono": "239 545 9644",
+      "email": "schavey1v@diigo.com",
+      "fecha_alta": "2025-04-24 18:52:39",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 69,
+      "dni": "552987884-9",
+      "nombre_apellidos": "Almeria Hinze",
+      "telefono": "315 619 1248",
+      "email": "ahinze1w@narod.ru",
+      "fecha_alta": "2025-08-12 16:45:10",
+      "fecha_baja": "2025-05-14 16:02:37",
+      "estado": true
+    },
+    {
+      "id_cliente": 70,
+      "dni": "793210579-X",
+      "nombre_apellidos": "Maggee Manjin",
+      "telefono": "151 951 9267",
+      "email": "mmanjin1x@amazon.de",
+      "fecha_alta": "2025-01-14 18:25:35",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 71,
+      "dni": "071141727-X",
+      "nombre_apellidos": "Dianna Georgeau",
+      "telefono": "988 873 1962",
+      "email": "dgeorgeau1y@over-blog.com",
+      "fecha_alta": "2025-11-06 12:05:02",
+      "fecha_baja": "2025-06-09 22:19:16",
+      "estado": false
+    },
+    {
+      "id_cliente": 72,
+      "dni": "502155547-2",
+      "nombre_apellidos": "Geralda Probey",
+      "telefono": "148 979 1315",
+      "email": "gprobey1z@uiuc.edu",
+      "fecha_alta": "2025-02-28 07:29:43",
+      "fecha_baja": "2025-06-15 08:14:12",
+      "estado": true
+    },
+    {
+      "id_cliente": 73,
+      "dni": "807905785-0",
+      "nombre_apellidos": "Lennie Mougenel",
+      "telefono": "977 837 1945",
+      "email": "lmougenel20@123-reg.co.uk",
+      "fecha_alta": "2025-02-24 08:25:28",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 74,
+      "dni": "171112740-X",
+      "nombre_apellidos": "Zilvia Riby",
+      "telefono": "595 511 1408",
+      "email": "zriby21@google.ca",
+      "fecha_alta": "2025-11-11 10:47:48",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 75,
+      "dni": "346503076-1",
+      "nombre_apellidos": "Teirtza Rodson",
+      "telefono": "224 652 2200",
+      "email": "trodson22@drupal.org",
+      "fecha_alta": "2025-05-20 23:16:23",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 76,
+      "dni": "942024665-5",
+      "nombre_apellidos": "Nita Gounard",
+      "telefono": "156 125 1939",
+      "email": "ngounard23@yelp.com",
+      "fecha_alta": "2025-07-01 22:21:17",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 77,
+      "dni": "104195948-6",
+      "nombre_apellidos": "Onida Trevino",
+      "telefono": "929 654 6693",
+      "email": "otrevino24@lycos.com",
+      "fecha_alta": "2025-06-21 14:41:03",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 78,
+      "dni": "227669149-2",
+      "nombre_apellidos": "Noam Benyan",
+      "telefono": "949 179 8566",
+      "email": "nbenyan25@netscape.com",
+      "fecha_alta": "2025-02-20 02:49:50",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 79,
+      "dni": "651316144-4",
+      "nombre_apellidos": "Shepard Bolduc",
+      "telefono": "320 919 2525",
+      "email": "sbolduc26@skyrock.com",
+      "fecha_alta": "2025-04-04 05:58:27",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 80,
+      "dni": "969232098-7",
+      "nombre_apellidos": "Twila Murricanes",
+      "telefono": "929 246 5511",
+      "email": "tmurricanes27@patch.com",
+      "fecha_alta": "2025-01-16 16:45:32",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 81,
+      "dni": "108735725-X",
+      "nombre_apellidos": "Katine Hodgon",
+      "telefono": "772 106 8895",
+      "email": "khodgon28@nps.gov",
+      "fecha_alta": "2025-04-30 23:54:14",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 82,
+      "dni": "139919342-2",
+      "nombre_apellidos": "Nikos Buxy",
+      "telefono": "120 314 2195",
+      "email": "nbuxy29@odnoklassniki.ru",
+      "fecha_alta": "2025-11-04 00:04:45",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 83,
+      "dni": "143790119-0",
+      "nombre_apellidos": "Matthaeus Andrick",
+      "telefono": "306 379 1252",
+      "email": "mandrick2a@sfgate.com",
+      "fecha_alta": "2025-02-07 07:43:34",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 84,
+      "dni": "837336483-8",
+      "nombre_apellidos": "Carma Lyte",
+      "telefono": "186 884 5830",
+      "email": "clyte2b@auda.org.au",
+      "fecha_alta": "2025-08-16 08:14:42",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 85,
+      "dni": "624359299-5",
+      "nombre_apellidos": "Lilah Riccardo",
+      "telefono": "118 499 9683",
+      "email": "lriccardo2c@t-online.de",
+      "fecha_alta": "2025-06-27 12:24:49",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 86,
+      "dni": "949935652-5",
+      "nombre_apellidos": "Opal Viccary",
+      "telefono": "125 678 0361",
+      "email": "oviccary2d@uol.com.br",
+      "fecha_alta": "2025-10-17 03:14:26",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 87,
+      "dni": "189494047-4",
+      "nombre_apellidos": "Heidi O' Finan",
+      "telefono": "262 621 9584",
+      "email": "ho2e@ow.ly",
+      "fecha_alta": "2025-11-26 09:27:17",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 88,
+      "dni": "323176533-1",
+      "nombre_apellidos": "Artus Castagno",
+      "telefono": "387 547 4818",
+      "email": "acastagno2f@usda.gov",
+      "fecha_alta": "2025-08-07 05:31:13",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 89,
+      "dni": "473762605-8",
+      "nombre_apellidos": "Lorrie Gadault",
+      "telefono": "688 488 2156",
+      "email": "lgadault2g@google.com.au",
+      "fecha_alta": "2025-02-13 08:30:10",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 90,
+      "dni": "848063465-0",
+      "nombre_apellidos": "Dennison Whitnall",
+      "telefono": "251 461 5319",
+      "email": "dwhitnall2h@fda.gov",
+      "fecha_alta": "2025-06-13 10:23:16",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 91,
+      "dni": "279225577-3",
+      "nombre_apellidos": "Pierette Cohn",
+      "telefono": "601 987 0928",
+      "email": "pcohn2i@google.com.au",
+      "fecha_alta": "2025-02-14 16:03:09",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 92,
+      "dni": "377822639-8",
+      "nombre_apellidos": "Morganica Risbie",
+      "telefono": "643 836 8605",
+      "email": "mrisbie2j@dailymail.co.uk",
+      "fecha_alta": "2025-04-26 17:22:06",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 93,
+      "dni": "562808324-0",
+      "nombre_apellidos": "Baird Bracer",
+      "telefono": "777 522 2111",
+      "email": "bbracer2k@de.vu",
+      "fecha_alta": "2025-08-24 04:43:19",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 94,
+      "dni": "086361978-9",
+      "nombre_apellidos": "Rafaello Szach",
+      "telefono": "693 667 5584",
+      "email": "rszach2l@businesswire.com",
+      "fecha_alta": "2025-08-08 00:38:52",
+      "fecha_baja": null,
+      "estado": false
+    },
+    {
+      "id_cliente": 95,
+      "dni": "933850440-9",
+      "nombre_apellidos": "Timmi Baptie",
+      "telefono": "946 741 9426",
+      "email": "tbaptie2m@cafepress.com",
+      "fecha_alta": "2025-07-30 10:26:18",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 96,
+      "dni": "559031573-5",
+      "nombre_apellidos": "Vanny Carville",
+      "telefono": "872 391 3175",
+      "email": "vcarville2n@e-recht24.de",
+      "fecha_alta": "2025-08-04 05:11:17",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 97,
+      "dni": "133967537-4",
+      "nombre_apellidos": "Nadiya Swyn",
+      "telefono": "962 988 3301",
+      "email": "nswyn2o@google.com.br",
+      "fecha_alta": "2025-07-03 00:49:57",
+      "fecha_baja": "2025-05-24 07:42:12",
+      "estado": true
+    },
+    {
+      "id_cliente": 98,
+      "dni": "701485993-5",
+      "nombre_apellidos": "Ignaz Crosham",
+      "telefono": "668 951 2955",
+      "email": "icrosham2p@163.com",
+      "fecha_alta": "2025-04-03 06:16:07",
+      "fecha_baja": null,
+      "estado": true
+    },
+    {
+      "id_cliente": 99,
+      "dni": "743892221-9",
+      "nombre_apellidos": "Franky Brisbane",
+      "telefono": "397 929 8134",
+      "email": "fbrisbane2q@usa.gov",
+      "fecha_alta": "2025-08-21 04:57:27",
+      "fecha_baja": "2025-04-30 03:41:16",
+      "estado": false
+    },
+    {
+      "id_cliente": 100,
+      "dni": "288713037-4",
+      "nombre_apellidos": "Calhoun Sullens",
+      "telefono": "245 876 2523",
+      "email": "csullens2r@nih.gov",
+      "fecha_alta": "2025-05-29 04:33:13",
+      "fecha_baja": null,
+      "estado": false
+    }
+  ]
+}
