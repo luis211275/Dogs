@@ -17,7 +17,7 @@ public class Main {
         server.setExecutor(null);
         server.start();
 
-        System.out.println("http://localhost:8080/trivia/sports");
+        System.out.println("http://localhost:8080");
 
     }
 }
