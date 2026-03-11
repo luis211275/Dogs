@@ -21,25 +21,27 @@ public class TriviaController {
         try {
 
 
-            if (path.equals("/trivia/format")) {
-                response(exchange, TriviaService.format());
-            }
-            if (path.equals("/trivia/easy")) {
-                response(exchange, TriviaService.llamada("https://opentdb.com/api.php?amount=10&difficulty=easy"));
+            if (path.equals("/trivia/formatEasy")) {
+                JsonArray response = TriviaService.formatEasy();
+                response(exchange, response.toString());
+                //DEBE SEGUIR ESTE ESTRUCTURA
                 //{
                 //  {
                 //  "results": [
                 //    {
                 //
-                //      "question": "Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?",JsonElemment
-                //      "correct_answer": "Nikita Khrushchev",AddProperty
+                //      "question": "Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?"
+                //      "correct_answer": "Nikita Khrushchev"
                 //      "answers": [
                 //        "Leonid Brezhnev",
                 //        "Mikhail Gorbachev",
-                //         "Nikita Khrushchev",
+                //        "Nikita Khrushchev",
                 //        "Boris Yeltsin"
                 //      ]
                 //    },
+            }
+            if (path.equals("/trivia/easy")) {
+                response(exchange, TriviaService.llamada("https://opentdb.com/api.php?amount=10&difficulty=easy"));
             }
 
             if (path.equals("/trivia/medium")) {
