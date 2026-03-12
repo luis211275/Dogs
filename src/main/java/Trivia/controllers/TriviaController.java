@@ -21,8 +21,49 @@ public class TriviaController {
         try {
 
 
+
             if (path.equals("/trivia/formatEasy")) {
                 JsonArray response = TriviaService.formatEasy();
+                response(exchange, response.toString());
+                //DEBE SEGUIR ESTE ESTRUCTURA
+                //{
+                //  {
+                //  "results": [
+                //    {
+                //
+                //      "question": "Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?"
+                //      "correct_answer": "Nikita Khrushchev"
+                //      "answers": [
+                //        "Leonid Brezhnev",
+                //        "Mikhail Gorbachev",
+                //        "Nikita Khrushchev",
+                //        "Boris Yeltsin"
+                //      ]
+                //    },
+            }
+
+            if (path.equals("/trivia/formatMedium")) {
+                JsonArray response = TriviaService.formatMedium();
+                response(exchange, response.toString());
+                //DEBE SEGUIR ESTE ESTRUCTURA
+                //{
+                //  {
+                //  "results": [
+                //    {
+                //
+                //      "question": "Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?"
+                //      "correct_answer": "Nikita Khrushchev"
+                //      "answers": [
+                //        "Leonid Brezhnev",
+                //        "Mikhail Gorbachev",
+                //        "Nikita Khrushchev",
+                //        "Boris Yeltsin"
+                //      ]
+                //    },
+            }
+
+            if (path.equals("/trivia/formatHard")) {
+                JsonArray response = TriviaService.formatHard();
                 response(exchange, response.toString());
                 //DEBE SEGUIR ESTE ESTRUCTURA
                 //{
